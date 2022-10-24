@@ -1,5 +1,5 @@
 <h3 >Languages</h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" width="96">
       <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="html5" />
@@ -26,7 +26,7 @@
 
 
 <h3>Framework & Tools</h3>
-  <table align="center">
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -52,7 +52,7 @@
   </table>
 
 <h3>Database</h3>
-<table align="center">
+<table>
 <tr>
   <td align="center" width="96">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
