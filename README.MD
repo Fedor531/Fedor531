@@ -41,6 +41,10 @@
         <br>Nuxt
       </td>
       <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="48" alt="nest" />
+        <br>Nest
+      </td>
+      <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
         <br>Webpack
       </td>
