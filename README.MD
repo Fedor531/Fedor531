@@ -62,9 +62,5 @@
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
     <br>PostgreSQL
   </td>
-  <td align="center" width="96">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
-    <br>Firebase
-  </td>
 </tr>
 </table>
